@@ -1,12 +1,12 @@
 body {
-    font-family : sans-serif;
     background-image: url("img/noratop_bkg_980.jpg");
     background-size: cover;
-    background-repeat: none;
+    background-repeat: no-repeat;
     color: white;
+    font-family: 'Lato', sans-serif;
 }
 
-#intro_message {
+#shortmessage {
     font-style: italic;
 }
 
