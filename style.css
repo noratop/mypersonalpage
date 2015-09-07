@@ -2,12 +2,14 @@ body {
     font-family : sans-serif;
     background-image: url("img/noratop_bkg_980.jpg");
     background-size: cover;
+    background-repeat: none;
     color: white;
+}
+
+#intro_message {
+    font-style: italic;
 }
 
 #mygravatar {
     border-radius: 50%;
-    border: 2px white solid;
-    float: left;
-    margin: 0 20px 0 20px;
 }
