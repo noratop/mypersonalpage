@@ -1,7 +1,8 @@
 body {
-    background-image: url("img/noratop_bkg_980.jpg");
-    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0, rgba(255,255,255,0.1) 50%, rgba(255,255,255,1) 100%), url("img/noratop_bkg_980.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     color: white;
     font-family: 'Lato', sans-serif;
 }
@@ -13,4 +14,11 @@ body {
 
 #mygravatar {
     border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+
+.contact {
+    list-style-type: none;
+    font-size: 2em;
 }
