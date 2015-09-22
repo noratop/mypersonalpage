@@ -1,7 +1,7 @@
-First webpage about Nora Top
+My static single page 
 ============================
 
-This is a webpage to introduce myself
+Nora Top - Learning Web Development
 -------------------------------------
 
-work in progress
+This is my online profile page
