@@ -35,9 +35,7 @@ h3 {
     width: 15%;
     min-width: 140px;
     max-width: 180px;
-}
-
-#content {
+    box-shadow: 0 0 50px 10px  white;
 }
 
 #footer{
