@@ -27,7 +27,7 @@ h3 {
 #header p {
     margin: 0;
     padding: 2%;
-    text-shadow: 0 0 0.8em Grey, 0 0 2.5em Grey, 0 0 5em Grey;
+    text-shadow: 0 0 0.1em #f5f5f5,0 0 0.8em Grey, 0 0 2.5em Grey, 0 0 5em Grey;
 }
 
 #profilePic {
